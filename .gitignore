@@ -1,0 +1,4 @@
+data/MinneMUDAC_raw_files/*.txt
+data/__MACOSX/MinneMUDAC_raw_files/*.txt
+data/*.delta
+data/*.parquet
